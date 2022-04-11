@@ -1,3 +1,7 @@
 /dataset_islab_v3
 /dataset_mel
+/dataset_mel_final
+/dataset_mel_save
 /processing_audios/.ipynb_checkpoints
+/models/.ipynb_checkpoints
+/examples
