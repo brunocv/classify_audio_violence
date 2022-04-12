@@ -5,3 +5,5 @@
 /processing_audios/.ipynb_checkpoints
 /models/.ipynb_checkpoints
 /examples
+/models/logs
+/models/*.h5
