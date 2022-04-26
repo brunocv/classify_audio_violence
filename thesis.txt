@@ -1,4 +1,4 @@
-ResNet18, SqueezeNet, MobileNet
+ResNet18, SqueezeNet, MobileNet, EfficientNetB0
 
 
 -Meter Callbacks nos modelos de Transfer Learning
