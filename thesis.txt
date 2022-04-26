@@ -1,0 +1,28 @@
+ResNet18, SqueezeNet, MobileNet
+
+
+-Meter Callbacks nos modelos de Transfer Learning
+
+-Ver erro do TensorBoard
+
+-Introduzir novas entradas, feitas por mim, nas redes para ver no que dá (overfitting faz com que modelo não consiga classificar
+devido a estar pouco generalizado)
+
+-Artigo dos resultados
+
+-Resolver overfitting (data augmentation/reduzir complexidade da rede/aumentar o número de dados)
+
+
+
+
+treino = 80% de 1720 -> 1376
+validação = 20% de 1376 = 274
+teste = 20% de 1720 -> 344
+
+Rescale = 1./255
+Batch_size = 64
+target_size = input_shape = 150
+epochs = 600
+reduceLR -> patience = 20
+EarlyStopping -> patience = 10
+
