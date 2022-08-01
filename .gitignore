@@ -1,10 +1,12 @@
 /dataset_islab_v3
 /dataset_mel
+/dataset
 /dataset_mel_final
 /dataset_mel_save
 /dataset_mel_final_augmented
 /processing_audios/.ipynb_checkpoints
 /models/.ipynb_checkpoints
 /examples
+/previous_datasets
 /models/logs
 /models/*.h5
