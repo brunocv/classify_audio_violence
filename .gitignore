@@ -10,3 +10,7 @@
 /previous_datasets
 /models/logs
 /models/*.h5
+/models/first/logs
+/models/first/*.h5
+/models/second/logs
+/models/second/*.h5
