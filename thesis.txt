@@ -1,18 +1,4 @@
-ResNet18, SqueezeNet, MobileNet, EfficientNetB0
-
-
--Meter Callbacks nos modelos de Transfer Learning
-
--Ver erro do TensorBoard
-
--Introduzir novas entradas, feitas por mim, nas redes para ver no que dá (overfitting faz com que modelo não consiga classificar
-devido a estar pouco generalizado)
-
--Artigo dos resultados
-
--Resolver overfitting (data augmentation/reduzir complexidade da rede/aumentar o número de dados)
-
-
+ResNet18, SqueezeNet,EfficientNetB0
 
 
 treino = 80% de 1720 -> 1376
