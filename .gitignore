@@ -5,7 +5,8 @@
 /dataset_mel_save
 /dataset_mel_final_augmented
 /processing_audios/.ipynb_checkpoints
-/models/.ipynb_checkpoints
+/models/first/.ipynb_checkpoints
+/models/second/.ipynb_checkpoints
 /examples
 /previous_datasets
 /models/logs
@@ -14,3 +15,4 @@
 /models/first/*.h5
 /models/second/logs
 /models/second/*.h5
+/models/second/*.pth
