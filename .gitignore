@@ -7,6 +7,7 @@
 /processing_audios/.ipynb_checkpoints
 /models/first/.ipynb_checkpoints
 /models/second/.ipynb_checkpoints
+/models/third/.ipynb_checkpoints
 /examples
 /previous_datasets
 /models/logs
@@ -16,3 +17,6 @@
 /models/second/logs
 /models/second/*.h5
 /models/second/*.pth
+/models/third/logs
+/models/third/*.h5
+/models/third/*.pth
