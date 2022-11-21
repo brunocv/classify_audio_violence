@@ -1,6 +1,6 @@
-treino = 80% de 1720 -> 1376
-validação = 20% de 1376 = 274
-teste = 20% de 1720 -> 344
+treino = 80% de 2752 -> 2202
+validação = 20% de 2752 -> 550
+teste = 20% de 3440 -> 688
 
 Rescale = 1./255
 Batch_size = 64
