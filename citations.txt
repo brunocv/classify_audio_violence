@@ -1,1 +1,26 @@
-\cite{soundvsaudio}
+Todas as entradas que estiverem aqui, significa que são links
+
+\cite{soundvsaudio} usado x4 DONE
+\cite{sampling_quantization} x1 DONE
+\cite{quantization} x1 DONE
+\cite{bitdepth} x1 DONE
+\cite{audioFeaturesMeaning} x1 DONE
+\cite{spectralfeatures} x2 DONE
+\cite{melscale} x1 DONE
+\cite{melspectrogram} x1 DONE
+\cite{ml} x4 DONE
+\cite{knn} x5 DONE
+\cite{dt1} x4 DONE
+\cite{svm} x3 DONE 
+\cite{svm2} x3 DONE
+\cite{dl} x5 DONE
+\cite{cnn} x7 DONE
+\cite{vgg19} x4 DONE
+\cite{vgg19definition} x1 DONE
+\cite{resnet} x5 DONE
+\cite{densenetintro} x4 DONE
+\cite{densenet} x2 DONE
+\cite{resnetvsdensenet} x1 DONE
+\cite{mobilenet} x3 DONE
+\cite{efficientnet} x1 DONE
+\cite{efficientnetstats} x3 DONE
