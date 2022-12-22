@@ -5,6 +5,9 @@ teste = 20% de 3440 -> 688
 Rescale = 1./255
 Batch_size = 64
 target_size = input_shape = 150
+
+
+
 epochs = 600
 reduceLR -> patience = 20
 EarlyStopping -> patience = 10
