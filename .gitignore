@@ -10,6 +10,7 @@
 /models/third/.ipynb_checkpoints
 /models/fourth/.ipynb_checkpoints
 /models/fith/.ipynb_checkpoints
+/models/test/.ipynb_checkpoints
 /examples
 /previous_datasets
 /models/logs
@@ -28,3 +29,6 @@
 /models/fith/logs
 /models/fith/*.h5
 /models/fith/*.pth
+/models/test/logs
+/models/test/*.h5
+/models/test/*.pth
